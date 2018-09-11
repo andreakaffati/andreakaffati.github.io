@@ -1,0 +1,265 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andreakaffati.me" resolutions="1x" timestamp="1536678980559">
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:contact:about:portfolio:web-design:graphic-design"/>
+    <file name="artboard 3.png" crc="4038249140" seo="true" ref="index:about:portfolio:contact:web-design:graphic-design">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="graphic-design-quotes-crop-u330.jpg" crc="468838664" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="if_facebook_194929.png" crc="406676219" seo="true" ref="index:about:portfolio:contact:web-design:graphic-design">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="if_linkedin_194920.png" crc="3895071953" seo="true" ref="index:about:portfolio:contact:web-design:graphic-design">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="if_twitter_194909.png" crc="275610451" seo="true" ref="index:about:portfolio:contact:web-design:graphic-design">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="graphic-design-quotes-crop-u3302.jpg" crc="372304982" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="graphic-design-quotes-crop-u3303.jpg" crc="4242497089" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="387585_2456105154830_1364717014_n.jpg" crc="526962327" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="387585_2456105154830_1364717014_n90x113.jpg" crc="3927873645" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u228-7.png" crc="529270181" ref="portfolio"/>
+    <file name="cover1.jpg" crc="4154808884" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="spread4.jpg" crc="3844204093" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="spread10.jpg" crc="483492767" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="maka.jpg" crc="3796174708" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="makachocolate.jpg" crc="168184823" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="cover1-crop-u902.jpg" crc="4146152666" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="spread4-crop-u1047.jpg" crc="4253175516" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="spread10-crop-u1073.jpg" crc="179815250" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="maka-crop-u1115.jpg" crc="122545326" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="makachocolate-crop-u1141.jpg" crc="3849084915" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="portfolio"/>
+    <file name="u228-72.png" crc="347707838" ref="portfolio"/>
+    <file name="cover1-crop-u9022.jpg" crc="4175002423" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="spread4-crop-u10472.jpg" crc="445329216" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="spread10-crop-u10732.jpg" crc="3914583679" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="maka-crop-u11152.jpg" crc="108988097" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="makachocolate-crop-u11412.jpg" crc="3927640085" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="u228-73.png" crc="356070102" ref="portfolio"/>
+    <file name="cover1160x107.jpg" crc="3992444058" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="spread4160x107.jpg" crc="3849587988" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="spread10160x107.jpg" crc="12776002" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="cover1-crop-u9023.jpg" crc="4144599728" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="spread4-crop-u10473.jpg" crc="4171441112" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="spread10-crop-u10733.jpg" crc="110025106" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="maka-crop-u11153.jpg" crc="3829385041" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="makachocolate-crop-u11413.jpg" crc="413670532" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="u313-11.png" crc="202818557" ref="contact"/>
+    <file name="u313-112.png" crc="42419023" ref="contact"/>
+    <file name="u313-113.png" crc="393076476" ref="contact"/>
+    <file name="maka2.jpg" crc="3796174708" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="makachocolate2.jpg" crc="168184823" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="businesscard template.jpg" crc="4149686819" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="cover2.jpg" crc="4016985829" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="index.jpg" crc="335939201" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="spread4221x148.jpg" crc="4123116556" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="spread10227x151.jpg" crc="240707681" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="spread4190x127.jpg" crc="3940308018" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="spread10195x130.jpg" crc="129434713" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="spread474x50.jpg" crc="4085608089" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="spread1076x51.jpg" crc="4108901122" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="200136142" ref="index"/>
+    <file name="contact.css" crc="168855328" ref="contact"/>
+    <file name="master_a-master.css" crc="496699077" ref="index:contact:web-design:portfolio:about:graphic-design"/>
+    <file name="nomq_preview_master_a-master.css" crc="4115169878" ref="contact:index:web-design:portfolio:about:graphic-design"/>
+    <file name="nomq_contact.css" crc="3820486794" ref="contact"/>
+    <file name="nomq_index.css" crc="395750749" ref="index"/>
+    <file name="web-design.css" crc="3844206842" ref="web-design"/>
+    <file name="nomq_web-design.css" crc="4053403777" ref="web-design"/>
+    <file name="portfolio.css" crc="42170084" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="519155880" ref="portfolio"/>
+    <file name="about.css" crc="4092867843" ref="about"/>
+    <file name="nomq_about.css" crc="438660015" ref="about"/>
+    <file name="graphic-design.css" crc="4203372571" ref="graphic-design"/>
+    <file name="nomq_graphic-design.css" crc="3829603835" ref="graphic-design"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:about:portfolio:web-design:graphic-design"/>
+    <file name="museutils.js" crc="340535759" ref="index:contact:about:portfolio:web-design:graphic-design"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:about:portfolio:web-design:graphic-design"/>
+    <file name="museconfig.js" crc="310584261" ref="index:contact:about:portfolio:web-design:graphic-design"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:contact:about:portfolio:web-design:graphic-design"/>
+    <file name="require.js" crc="7928878" ref="index:contact:about:portfolio:web-design:graphic-design"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:contact:about:portfolio:web-design:graphic-design"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:about:portfolio:contact:web-design:graphic-design"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:contact:web-design:graphic-design"/>
+    <file name="webpro.js" crc="4059564322" ref="portfolio"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="portfolio"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="portfolio"/>
+    <file name="touchswipe.js" crc="4075097462" ref="portfolio"/>
+  </folder>
+  <file name="index.html" crc="533183591" seo="true" mt="1536063936583" redirect="true"/>
+  <file name="contact.html" crc="157563979" seo="true" mt="1536071697134" redirect="true"/>
+  <file name="about.html" crc="75685758" seo="true" mt="1536071668343" redirect="true"/>
+  <file name="portfolio.html" crc="4216966566" seo="true" mt="1536071687534" redirect="true"/>
+  <file name="web-design.html" crc="157739476" seo="true" mt="1536063922623" redirect="true"/>
+  <file name="graphic-design.html" crc="4114602593" seo="true" mt="1536063922623" redirect="true"/>
+</manifest>
