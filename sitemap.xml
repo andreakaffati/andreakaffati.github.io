@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://andreakaffati.me/index.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -26,28 +26,19 @@
     <image:image>
       <image:loc>http://andreakaffati.me/images/graphic-design-quotes-crop-u3303.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://andreakaffati.me/contact.html</loc>
-    <lastmod>2018-09-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://andreakaffati.me/images/artboard%203.png</image:loc>
+      <image:loc>http://andreakaffati.me/images/graphic-design-quotes-crop-u3304.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andreakaffati.me/images/if_facebook_194929.png</image:loc>
+      <image:loc>http://andreakaffati.me/images/graphic-design-quotes-crop-u3305.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andreakaffati.me/images/if_linkedin_194920.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andreakaffati.me/images/if_twitter_194909.png</image:loc>
+      <image:loc>http://andreakaffati.me/images/graphic-design-quotes-crop-u3306.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://andreakaffati.me/about.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -68,10 +59,13 @@
     <image:image>
       <image:loc>http://andreakaffati.me/images/387585_2456105154830_1364717014_n90x113.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://andreakaffati.me/images/387585_2456105154830_1364717014_n134x169.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://andreakaffati.me/portfolio.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -155,10 +149,34 @@
     <image:image>
       <image:loc>http://andreakaffati.me/images/makachocolate-crop-u11413.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://andreakaffati.me/images/cover1241x161.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andreakaffati.me/images/spread4241x161.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andreakaffati.me/images/spread10241x161.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andreakaffati.me/images/cover1-crop-u9024.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andreakaffati.me/images/spread4-crop-u10474.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andreakaffati.me/images/spread10-crop-u10734.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andreakaffati.me/images/maka-crop-u11154.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andreakaffati.me/images/makachocolate-crop-u11414.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://andreakaffati.me/web-design.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <loc>http://andreakaffati.me/contact.html</loc>
+    <lastmod>2018-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -176,7 +194,7 @@
   </url>
   <url>
     <loc>http://andreakaffati.me/graphic-design.html</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -224,5 +242,47 @@
     <image:image>
       <image:loc>http://andreakaffati.me/images/spread1076x51.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://andreakaffati.me/images/spread4178x119.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andreakaffati.me/images/spread10183x122.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andreakaffati.me/images/spread4111x74.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andreakaffati.me/images/spread10113x76.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://andreakaffati.me/resume.html</loc>
+    <lastmod>2018-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://andreakaffati.me/images/artboard%203.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andreakaffati.me/images/if_facebook_194929.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andreakaffati.me/images/if_linkedin_194920.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andreakaffati.me/images/if_twitter_194909.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://andreakaffati.me/assets/andrea-kaffati-giudicelli-resume.pdf</loc>
+    <lastmod>2018-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://andreakaffati.me/assets/pdf-embedder.mulib</loc>
+    <lastmod>2015-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
