@@ -37,33 +37,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://andreakaffati.me/about.html</loc>
-    <lastmod>2018-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://andreakaffati.me/images/artboard%203.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andreakaffati.me/images/if_facebook_194929.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andreakaffati.me/images/if_linkedin_194920.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andreakaffati.me/images/if_twitter_194909.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andreakaffati.me/images/387585_2456105154830_1364717014_n.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andreakaffati.me/images/387585_2456105154830_1364717014_n90x113.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andreakaffati.me/images/387585_2456105154830_1364717014_n134x169.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://andreakaffati.me/portfolio.html</loc>
     <lastmod>2018-09-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -126,13 +99,13 @@
       <image:loc>http://andreakaffati.me/images/makachocolate-crop-u11412.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andreakaffati.me/images/cover1160x107.jpg</image:loc>
+      <image:loc>http://andreakaffati.me/images/cover1241x161.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andreakaffati.me/images/spread4160x107.jpg</image:loc>
+      <image:loc>http://andreakaffati.me/images/spread4241x161.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andreakaffati.me/images/spread10160x107.jpg</image:loc>
+      <image:loc>http://andreakaffati.me/images/spread10241x161.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://andreakaffati.me/images/cover1-crop-u9023.jpg</image:loc>
@@ -150,13 +123,13 @@
       <image:loc>http://andreakaffati.me/images/makachocolate-crop-u11413.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andreakaffati.me/images/cover1241x161.jpg</image:loc>
+      <image:loc>http://andreakaffati.me/images/cover1160x107.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andreakaffati.me/images/spread4241x161.jpg</image:loc>
+      <image:loc>http://andreakaffati.me/images/spread4160x107.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andreakaffati.me/images/spread10241x161.jpg</image:loc>
+      <image:loc>http://andreakaffati.me/images/spread10160x107.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://andreakaffati.me/images/cover1-crop-u9024.jpg</image:loc>
@@ -190,6 +163,33 @@
     </image:image>
     <image:image>
       <image:loc>http://andreakaffati.me/images/if_twitter_194909.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://andreakaffati.me/about.html</loc>
+    <lastmod>2018-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://andreakaffati.me/images/artboard%203.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andreakaffati.me/images/if_facebook_194929.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andreakaffati.me/images/if_linkedin_194920.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andreakaffati.me/images/if_twitter_194909.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andreakaffati.me/images/387585_2456105154830_1364717014_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andreakaffati.me/images/387585_2456105154830_1364717014_n134x169.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andreakaffati.me/images/387585_2456105154830_1364717014_n90x113.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -237,12 +237,6 @@
       <image:loc>http://andreakaffati.me/images/spread10195x130.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andreakaffati.me/images/spread474x50.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andreakaffati.me/images/spread1076x51.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://andreakaffati.me/images/spread4178x119.jpg</image:loc>
     </image:image>
     <image:image>
@@ -253,6 +247,12 @@
     </image:image>
     <image:image>
       <image:loc>http://andreakaffati.me/images/spread10113x76.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andreakaffati.me/images/spread474x50.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://andreakaffati.me/images/spread1076x51.jpg</image:loc>
     </image:image>
   </url>
   <url>
